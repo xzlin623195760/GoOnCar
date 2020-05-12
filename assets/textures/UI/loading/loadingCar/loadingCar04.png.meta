@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
+  "uuid": "9daa35d0-61bd-4896-a2e1-34d7be846b48",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "9daa35d0-61bd-4896-a2e1-34d7be846b48@6c48a",
+      "displayName": "loadingCar04",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9daa35d0-61bd-4896-a2e1-34d7be846b48"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "9daa35d0-61bd-4896-a2e1-34d7be846b48@6c48a"
+  }
+}

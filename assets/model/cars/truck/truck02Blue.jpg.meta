@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
+  "uuid": "38dc6e1a-3b7d-465a-9aa2-cd9befb6bef1",
+  "files": [
+    ".jpg",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "38dc6e1a-3b7d-465a-9aa2-cd9befb6bef1@6c48a",
+      "displayName": "truck02Blue",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "38dc6e1a-3b7d-465a-9aa2-cd9befb6bef1"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "38dc6e1a-3b7d-465a-9aa2-cd9befb6bef1@6c48a"
+  }
+}

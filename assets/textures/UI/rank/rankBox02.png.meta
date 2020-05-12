@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
+  "uuid": "13b167db-e0e5-4814-ac9d-51e70c250a66",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "13b167db-e0e5-4814-ac9d-51e70c250a66@6c48a",
+      "displayName": "rankBox02",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "13b167db-e0e5-4814-ac9d-51e70c250a66"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "13b167db-e0e5-4814-ac9d-51e70c250a66@6c48a"
+  }
+}

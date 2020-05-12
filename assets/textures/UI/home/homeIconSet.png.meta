@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
+  "uuid": "46f2964e-b0ba-4ee1-96c7-a18bdc70cffc",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "46f2964e-b0ba-4ee1-96c7-a18bdc70cffc@6c48a",
+      "displayName": "homeIconSet",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "46f2964e-b0ba-4ee1-96c7-a18bdc70cffc"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "46f2964e-b0ba-4ee1-96c7-a18bdc70cffc@6c48a"
+  }
+}

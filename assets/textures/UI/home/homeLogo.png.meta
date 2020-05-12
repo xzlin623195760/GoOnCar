@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
+  "uuid": "c90b0617-9f84-4e80-b877-9df4857874ae",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "c90b0617-9f84-4e80-b877-9df4857874ae@6c48a",
+      "displayName": "homeLogo",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c90b0617-9f84-4e80-b877-9df4857874ae"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "c90b0617-9f84-4e80-b877-9df4857874ae@6c48a"
+  }
+}

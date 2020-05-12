@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
+  "uuid": "49447280-3578-4495-aa2d-f0c053cb2e8e",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "49447280-3578-4495-aa2d-f0c053cb2e8e@6c48a",
+      "displayName": "shopBoxChoose",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "49447280-3578-4495-aa2d-f0c053cb2e8e"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "49447280-3578-4495-aa2d-f0c053cb2e8e@6c48a"
+  }
+}

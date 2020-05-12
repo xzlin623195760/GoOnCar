@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
+  "uuid": "dea27551-3d3b-4285-8223-176ef01328af",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "dea27551-3d3b-4285-8223-176ef01328af@6c48a",
+      "displayName": "fightShieldImg01",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "dea27551-3d3b-4285-8223-176ef01328af"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "dea27551-3d3b-4285-8223-176ef01328af@6c48a"
+  }
+}

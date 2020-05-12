@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
+  "uuid": "113890ff-6112-407a-9e71-63a3bfc78891",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "113890ff-6112-407a-9e71-63a3bfc78891@6c48a",
+      "displayName": "fightImgGold",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "113890ff-6112-407a-9e71-63a3bfc78891"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "113890ff-6112-407a-9e71-63a3bfc78891@6c48a"
+  }
+}

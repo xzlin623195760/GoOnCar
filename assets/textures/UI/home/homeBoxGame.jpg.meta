@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
+  "uuid": "4e51a93f-d60d-485c-a9c0-92c1a02b3884",
+  "files": [
+    ".jpg",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "4e51a93f-d60d-485c-a9c0-92c1a02b3884@6c48a",
+      "displayName": "homeBoxGame",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "4e51a93f-d60d-485c-a9c0-92c1a02b3884"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "4e51a93f-d60d-485c-a9c0-92c1a02b3884@6c48a"
+  }
+}

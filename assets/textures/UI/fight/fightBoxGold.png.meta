@@ -1,0 +1,40 @@
+{
+  "ver": "1.0.17",
+  "importer": "image",
+  "imported": true,
+  "uuid": "5104e9a4-cb60-4a3d-a80a-593ed56b126a",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "5104e9a4-cb60-4a3d-a80a-593ed56b126a@6c48a",
+      "displayName": "fightBoxGold",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "5104e9a4-cb60-4a3d-a80a-593ed56b126a"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "5104e9a4-cb60-4a3d-a80a-593ed56b126a@6c48a"
+  }
+}
